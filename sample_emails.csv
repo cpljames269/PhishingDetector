@@ -1,0 +1,9 @@
+timestamp,sender,subject,spf,dkim,links
+2025-12-15 08:00:01,admin@trustedcorp.com,Quarterly Report,pass,pass,https://trustedcorp.com/report
+2025-12-15 08:05:12,service@notrealbiz.xyz,Invoice Attached,fail,fail,http://notrealbiz.xyz/invoice
+2025-12-15 08:10:23,alerts@securemail.com,Password Reset Required,pass,pass,https://securemail.com/reset
+2025-12-15 08:15:45,info@fakebank123.com,Account Suspended,fail,pass,http://fakebank123.com/login
+2025-12-15 08:20:33,newsletter@newsletters.org,Weekly Digest,pass,pass,https://newsletters.org/digest
+2025-12-15 08:25:10,update@weird-domain.biz,Update Your Settings,fail,fail,http://weird-domain.biz/settings
+2025-12-15 08:30:55,alerts@trustedcorp.com,Security Alert,pass,pass,https://trustedcorp.com/alert
+2025-12-15 08:35:42,noreply@phishy-email.net,Important Update,fail,fail,http://phishy-email.net/update
